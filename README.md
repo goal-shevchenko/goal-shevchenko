@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goal-shevchenko" alt="goal-shevchenko" /></a> </p>
 
 - 👯 I’m interested in large-scale project which require a lot of stack, technologies such as [Pastel Network](https://pastel.network/)
-
+- 👯 I’m a senior Lead engineer at Arkamix LLC and it use the Elixir/GraphqL, Clojure/React for B2B ecommerce platform, technologies such as [Arkamix LLC](https://arkamix.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
